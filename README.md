@@ -7,7 +7,7 @@ I am very interested in Machine Learning, especially in Computer Vision & NLP. <
 
 ### Computer Vision :eyes: :
 - [Cats vs. Dogs](https://github.com/iskon4ik/cats_vs_dogs_classification) - Image Classification via PyTorch on famous Cats vs. Dogs dataset
-<!--- #- Liver Tumor Segmentation --->
+- [Liver Tumor Segmentation] (https://github.com/iskon4ik/liver_tumor_segmentation) - Image Segmentation with handmade UNET via PyTorch on Liver Tumor CT scans dataset
 
 
 
