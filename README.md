@@ -9,6 +9,10 @@ I am very interested in Machine Learning, especially in Computer Vision & NLP. <
 - [Cats vs. Dogs](https://github.com/iskon4ik/cats_vs_dogs_classification) - Image Classification via PyTorch on famous Cats vs. Dogs dataset
 - [Liver Tumor Segmentation (STILL IN PROGRESS)](https://github.com/iskon4ik/liver_tumor_segmentation) - Image Segmentation with handmade UNET via PyTorch on Liver Tumor CT scans dataset
 
+
+### NLP :book: :
+- [NLP Course by Yandex SDA (School of Data Analysis)](https://github.com/iskon4ik/nlp_course) - NLP course of Yandex School of Data Analysis. A lot of various topics and problems with seminars and homeworks.
+
 ### Projects not translated to English:
 - [C++ algorithm course](https://github.com/iskon4ik/MADE_ALGO_CPP_2019) - Tasks which I've done for this course. Tasks description and comments in Russian.
 
